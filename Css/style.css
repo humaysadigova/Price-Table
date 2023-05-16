@@ -1,0 +1,41 @@
+
+body {
+background-color: #f0f0f0;
+font-family: Arial, Helvetica, sans-serif;
+/* text-align: center; */
+
+
+}
+.pricing-table {
+    justify-content: center;
+    display: flex;
+}
+
+.pricing-card {
+    
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: 15%;
+}
+#description {
+    color: gray;
+    font-size: 15px;
+}
+#feature {
+    list-style: none;
+
+}
+#feature li {
+    margin-bottom: 5px;
+}
+.button {
+    background-color: rgb(80, 80, 238);
+    color: white;
+    border: 0;
+    padding: 10px 15px;
+    margin: 10px;
+}
+
+
